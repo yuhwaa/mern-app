@@ -1,7 +1,7 @@
 
 # Goalsetter MERN app
 
-This is a practice project to learn how to build a MERN Stack app.
+This is a practice project to learn how to build a MERN Stack app. You can find out more about the tutorial [here](https://www.youtube.com/watch?v=-0exw-9YJBo)
 
 ## Usage
 
